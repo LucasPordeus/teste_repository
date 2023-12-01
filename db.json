@@ -1,0 +1,241 @@
+{
+  "historico": [
+    {
+      "id": 1,
+      "classe": "apple_red",
+      "nome": "Maça Vermelha",
+      "valor": 8.3,
+      "pesagem": 0.5,
+      "valorTotal": 4.15,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 2,
+      "classe": "apple_fuji",
+      "nome": "Maça Fuji",
+      "valor": 9.55,
+      "pesagem": 0.5,
+      "valorTotal": 4.775,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 3,
+      "classe": "portuguese_potato",
+      "nome": "Batata Portuguesa ",
+      "valor": 4.15,
+      "pesagem": 0.3,
+      "valorTotal": 1.245,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 4,
+      "classe": "washed_potato",
+      "nome": "Batata Lavada",
+      "valor": 5.7,
+      "pesagem": 1.2,
+      "valorTotal": 6.84,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 5,
+      "classe": "white_onion",
+      "nome": "Cebola Branca",
+      "valor": 3.8,
+      "pesagem": 1.3,
+      "valorTotal": 4.94,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 6,
+      "classe": "purple_onion",
+      "nome": "Cebola Roxa",
+      "valor": 4.2,
+      "pesagem": 0.8,
+      "valorTotal": 3.36,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 7,
+      "classe": "pineapple",
+      "nome": "Abacaxi",
+      "valor": 8,
+      "pesagem": 1.5,
+      "valorTotal": 12,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 8,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 9,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 10,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    },
+    {
+      "id": 11,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8,
+      "imagemFruta": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/280px-Red_Apple.jpg"
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "Administrador ",
+      "login": "admin",
+      "senha": "1234562@Fdas",
+      "perfil": "Perfil 2"
+    },
+    {
+      "id": 2,
+      "nome": "Fulano 1",
+      "login": "fulano1",
+      "senha": "123",
+      "perfil": "Perfil 2"
+    },
+    {
+      "id": 3,
+      "nome": "Ciclano",
+      "login": "ciclano",
+      "senha": "123",
+      "perfil": "Perfil 3"
+    },
+    {
+      "id": 4,
+      "nome": "Beltrano Novo",
+      "login": "belte",
+      "senha": "123HF3qw&",
+      "perfil": "teste"
+    }
+  ],
+  "cadastro": [
+    {
+      "nome": "Maça Red",
+      "classe": "apple_red",
+      "valor": 4.9,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "classe": "apple_fuji",
+      "nome": "Maça Fuji",
+      "valor": 9.55,
+      "pesagem": 0.5,
+      "valorTotal": 4.775
+    },
+    {
+      "id": 3,
+      "classe": "portuguese_potato",
+      "nome": "Batata Portuguesa",
+      "valor": 4.15,
+      "pesagem": 0.3,
+      "valorTotal": 1.245
+    },
+    {
+      "id": 4,
+      "classe": "washed_potato",
+      "nome": "Batata Lavada",
+      "valor": 5.7,
+      "pesagem": 1.2,
+      "valorTotal": 6.84
+    },
+    {
+      "id": 5,
+      "classe": "white_onion",
+      "nome": "Cebola Branca",
+      "valor": 3.8,
+      "pesagem": 1.3,
+      "valorTotal": 4.94
+    },
+    {
+      "id": 6,
+      "classe": "purple_onion",
+      "nome": "Cebola Roxa",
+      "valor": 4.2,
+      "pesagem": 0.8,
+      "valorTotal": 3.36
+    },
+    {
+      "id": 7,
+      "classe": "pineapple",
+      "nome": "Abacaxi",
+      "valor": 8,
+      "pesagem": 1.5,
+      "valorTotal": 12
+    },
+    {
+      "id": 8,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8
+    },
+    {
+      "id": 9,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8
+    },
+    {
+      "id": 10,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8
+    },
+    {
+      "id": 11,
+      "classe": "sicilian_lemon",
+      "nome": "Limão Siciliano",
+      "valor": 12,
+      "pesagem": 0.4,
+      "valorTotal": 4.8
+    }
+  ],
+  "balanca": [
+    {
+      "nome": "Balança 0",
+      "ip": "10.0.0.20",
+      "local": "Setor 1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Balança 02",
+      "ip": "10.0.1.35",
+      "local": "Setor 2"
+    },
+    {
+      "id": 3,
+      "nome": "Balança 03",
+      "ip": "10.1.1.15",
+      "local": "Setor 3"
+    }
+  ]
+}
